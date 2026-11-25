@@ -1,0 +1,46 @@
+{
+  "name": "@blyth/playable-kit",
+  "version": "0.1.2",
+  "description": "Make playable mobile games and playable ads with your AI agent: the Blyth Play Kernel, build and verify tools, reference games and the SKILL.md workflow.",
+  "keywords": [
+    "playable-ads",
+    "playable-ad",
+    "html5-game",
+    "mobile-game",
+    "hyper-casual",
+    "game-engine",
+    "threejs",
+    "ai-agent",
+    "claude",
+    "mcp",
+    "blyth"
+  ],
+  "type": "module",
+  "bin": {
+    "playable-kit": "bin/create.mjs"
+  },
+  "files": [
+    "bin",
+    "kit",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    "NOTICE.md"
+  ],
+  "engines": {
+    "node": ">=18.17"
+  },
+  "homepage": "https://github.com/blyth-ai/playable-kit#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blyth-ai/playable-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blyth-ai/playable-kit/issues"
+  },
+  "author": "Blyth AI Inc. <info@blyth.ai> (https://blyth.ai)",
+  "license": "PolyForm-Shield-1.0.0",
+  "publishConfig": {
+    "access": "public"
+  }
+}

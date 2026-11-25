@@ -1,0 +1,7 @@
+node_modules/
+dist/
+game/
+design/
+playable-work/
+*.tgz
+.DS_Store
